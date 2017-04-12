@@ -183,7 +183,9 @@ Simule abaixo os beneficios dos Planos Fale Mais:
 		</form>
 	</div>
 
-	<footer></footer>
+	<footer>
+		<h6 class="text-center">Desenvolvido por João Gabriel</h6>
+	</footer>
 	
 </body>
 </html>
