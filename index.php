@@ -182,6 +182,8 @@ Simule abaixo os beneficios dos Planos Fale Mais:
 			
 		</form>
 	</div>
+
+	<footer></footer>
 	
 </body>
 </html>
