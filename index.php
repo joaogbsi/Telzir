@@ -84,7 +84,7 @@ $calculo = new Calculo();
 		<div class="container">
 
 		<p>
-			Agora se você fala muito, A Teliz criou o Fale Mais, um plano de pacotes que te oferece muitos gratuitos* para ligações de outros códigos.
+			Agora se você fala muito, A Teliz criou o Fale Mais, um plano de pacotes que te oferece minutos gratuitos* para ligações de outros códigos.
 Simule abaixo os beneficios dos Planos Fale Mais:
 		</p>
 
